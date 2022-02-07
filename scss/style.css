@@ -148,7 +148,7 @@ a{
 
 
  .banner{
-    background:url(/img/wp6921343-1920x1080-retro-sunset-wallpapers.jpg); 
+    background:url(./img/wp6921343-1920x1080-retro-sunset-wallpapers.jpg); 
     height:100vh; 
     background-repeat: no-repeat;
     background-position: center;
@@ -207,7 +207,7 @@ a{
 
 .container{
     
-    background:url(/img/848759.jpg);
+    background:url(./img/848759.jpg);
     background-size: cover;
     background-position:absolute ;
     display: flex;
@@ -278,7 +278,7 @@ a{
     filter: drop-shadow(5px 5px 5px rgb(231, 136, 255));
 }
 .education:hover {
-    background-image: url("/img/education-png-23447.png");
+    background-image: url("./img/education-png-23447.png");
     background-size: 60%;
     background-repeat: no-repeat;
     background-position:center;
@@ -287,21 +287,21 @@ a{
     
 }
 .education{
-    background-image: url("/img/education-png-23447.png");
+    background-image: url("./img/education-png-23447.png");
     background-size: 50%;
     background-repeat: no-repeat;
     background-position:center ;
 }
 
 .hobbies{
-    background-image: url("/img/—Pngtree—black\ quill\ feather\ pen\ with_5157648.png");
+    background-image: url("./img/—Pngtree—black\ quill\ feather\ pen\ with_5157648.png");
     background-size: 50%;
     background-repeat: no-repeat;
     background-position:center ;
 }
 
 .hobbies:hover{
-    background-image: url("/img/—Pngtree—black\ quill\ feather\ pen\ with_5157648.png");
+    background-image: url("./img/—Pngtree—black\ quill\ feather\ pen\ with_5157648.png");
     background-size: 60%;
     background-repeat: no-repeat;
     background-position:center;
@@ -309,13 +309,13 @@ a{
 }
 
 .idk{
-    background-image: url("/img/thinking.png");
+    background-image: url("./img/thinking.png");
     background-size: 40%;
     background-repeat: no-repeat;
     background-position:center ;
 }
 .idk:hover{
-    background-image: url("/img/thinking.png");
+    background-image: url("./img/thinking.png");
     background-size: 50%;
     background-repeat: no-repeat;
     background-position:center;
